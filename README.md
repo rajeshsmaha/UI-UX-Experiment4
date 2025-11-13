@@ -1,7 +1,7 @@
 # UI-UX-Experiment4
 
-###### NAME : Thameez Ahamed A 
-###### REG NO : 212224220116
+###### NAME : Rajeshwaran D
+###### REG NO : 212223040165
 
 ## Aim: 
 To Design a wireframe diagram for a generic application or website using Balsamiq
